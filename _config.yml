@@ -21,7 +21,8 @@
 title: Layla Frischman
 email: laylasfrischman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Write a lame description here. # this one is for Google search results
+    I am an Industrial Engineering student planning to specialize in Artificial Intelligence, and hoping to utilize my 
+    computer programming experience to improve and optimize systems.  # this one is for Google search results
 permalink: "/blog/:title"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://laylafrischman.ca" # the base hostname & protocol for your site, e.g. http://example.com
@@ -31,7 +32,8 @@ author:
   name: Layla Frischman # add your name
   img: laylafrischman.jpeg # add your photo
   about: >- # add an about section
-    Write a lame description here. # this one is for the sidebar
+   I am an Industrial Engineering student planning to specialize in Artificial Intelligence, and hoping to utilize my 
+    computer programming experience to improve and optimize systems. # this one is for the sidebar
   resume: resume.pdf # add path to your resume
 
 # General settings
