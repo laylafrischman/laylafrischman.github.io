@@ -21,7 +21,7 @@
 title: Layla Frischman
 email: laylasfrischman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Write a lame description here.
+    Write a lame description here. # this one is for Google search results
 permalink: "/blog/:title"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://laylafrischman.ca" # the base hostname & protocol for your site, e.g. http://example.com
@@ -31,7 +31,7 @@ author:
   name: Layla Frischman # add your name
   img: laylafrischman.jpeg # add your photo
   about: >- # add an about section
-    Write a lame description here.
+    Write a lame description here. # this one is for the sidebar
   resume: resume.pdf # add path to your resume
 
 # General settings
@@ -41,7 +41,7 @@ general:
 # Social settings
 social:
   twitter: # add your Twitter handle
-  facebook: # add your Facebook handle
+  facebook: laylafrischman # add your Facebook handle
   github: laylafrischman # add your Github handle
   linkedin: laylafrischman # add your LinkedIn handle
 
