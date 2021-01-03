@@ -12,9 +12,9 @@ I grew up with dinner table discussions about technology and mathematics, and la
 
 - **Stable Marriage Problem**
 
-...- Created a program which takes in inupt files with up to 2000 students and schools and creates both student and school optimal matches using the Gale-Shapley algorithm.
+..-Created a program which takes in inupt files with up to 2000 students and schools and creates both student and school optimal matches using the Gale-Shapley algorithm.
 
 - **The Bullwhip Effect**
 
-...- Collaboratively created a program which models the weekly ordering system for a beer store owner using a set of difference equations.
+..-Collaboratively created a program which models the weekly ordering system for a beer store owner using a set of difference equations.
 
