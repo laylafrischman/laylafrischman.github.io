@@ -33,4 +33,4 @@ I grew up with dinner table discussions about technology and mathematics, and la
   
 - **Co-Founder of the Jewish Engineering Society**
 
-  A classmate and I created a club to address the needs of and enhance the experience of Jewish engineering students, or any engineering students interested in Jewish culture. Our aim is to create a strong campus community where students make meaningful connections built on both a clutural and professional foundation.
+  A classmate and I created a club to address the needs of and enhance the experience of Jewish engineering students, or any engineering students interested in Jewish culture. Our aim is to create a strong campus community where students make meaningful connections built on both a cultural and professional foundation.
