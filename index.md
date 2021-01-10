@@ -31,6 +31,6 @@ I grew up with dinner table discussions about technology and mathematics, and la
 
   As part of the University of Toronto Work Study program, I worked within the Engineering Communication Program to aid in the creation of a podcast series to be used as an educational tool. I had the opportunity to research the topic of engineering intuition, as well as to conduct and shadow numerous podcast interviews.
   
-- **Co-Founder of the Jewish Engineering Society**
+- **Co-Founder of the [Jewish Engineering Society] (https://jes.skule.ca)**
 
   A classmate and I created a club to address the needs of and enhance the experience of Jewish engineering students, or any engineering students interested in Jewish culture. Our aim is to create a strong campus community where students make meaningful connections built on both a cultural and professional foundation.
