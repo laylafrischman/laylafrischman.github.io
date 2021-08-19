@@ -11,15 +11,15 @@ I grew up with dinner table discussions about technology and mathematics, and la
 
 - **Customer Care Administrator**
 
-  For the summer of 2021, I worked on site for a Construction Management company called H & R Construction Management. As homeowners of the 600 newly built condo units submitted lists of warrantable deficiencies, I recorded and tracked this information in a clear and concise manner for all team members.
+  For the summer of 2021, I worked on site for a Construction Management company called HR Construction Management. As homeowners of the 600 newly built condo units submitted lists of warrantable deficiencies, I recorded and tracked this information in a clear and concise manner for all team members.
 
 - **Administrative Assistant**
 
-  Last summer, I worked for a Jewish educational organization called Torah in Motion. Primarily, I helped the organization in their transition to becoming 100% virtual due to COVID-19. Some of my responsibilities included managing the company website and YouTube page, and digitizing archived files.
+  Last summer, I worked for a Jewish educational organization called [Torah in Motion](https://torahinmotion.org/){:target="_blank"}. Primarily, I helped the organization in their transition to becoming 100% virtual due to COVID-19. Some of my responsibilities included managing the company website and YouTube page, and digitizing archived files.
   
 - **Podcast Researcher and Developer**
 
-  As part of the University of Toronto Work Study program, I worked within the Engineering Communication Program to aid in the creation of a podcast series to be used as an educational tool. I had the opportunity to research the topic of engineering intuition, as well as to conduct and shadow numerous podcast interviews.
+  As part of the University of Toronto Work Study program, I worked within the [Engineering Communication Program](https://ecp.engineering.utoronto.ca/){:target="_blank"} to aid in the creation of a podcast series to be used as an educational tool. I had the opportunity to research the topic of engineering intuition, as well as to conduct and shadow numerous podcast interviews.
 
 ## **Community Involvement**
 
@@ -29,4 +29,4 @@ I grew up with dinner table discussions about technology and mathematics, and la
 
 - **Teaching Assistant**
   
-  This semester, I served as a teaching assistant for an online course run by [The Tikvah Fund](https://tikvahfund.org/), called Judaism, Science, and Technology. The curriculum spanned topics such as determining vaccine rollout priorities, where to draw the line betwen artificial intelligence and human life, and the relationship between religion and science.
+  This semester, I served as a teaching assistant for an online course run by [The Tikvah Fund](https://tikvahfund.org/){:target="_blank"}, called Judaism, Science, and Technology. The curriculum spanned topics such as determining vaccine rollout priorities, where to draw the line betwen artificial intelligence and human life, and the relationship between religion and science.
