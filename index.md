@@ -11,7 +11,7 @@ I grew up with dinner table discussions about technology and mathematics, and la
 
 - **Customer Care Administrator**
 
-  For the summer of 2021, I worked on site for a Construction Management company called H & R Construction Management. As homeowners of the 600 newly built condo units submitted lists of warrantable deficiencies, I recorded and tracked this information in a clear and concise manner for all team members. Administrative department duties included scheduling meetings, publishing minutes, filing and other supportive activities.
+  For the summer of 2021, I worked on site for a Construction Management company called H & R Construction Management. As homeowners of the 600 newly built condo units submitted lists of warrantable deficiencies, I recorded and tracked this information in a clear and concise manner for all team members.
 
 - **Administrative Assistant**
 
