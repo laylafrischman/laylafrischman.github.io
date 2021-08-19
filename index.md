@@ -9,6 +9,10 @@ I grew up with dinner table discussions about technology and mathematics, and la
  
 ## **Work Experience**
 
+- **Customer Care Administrator**
+
+  For the summer of 2021, I worked on site for a Construction Management company called H & R Construction Management. As homeowners of the 600 newly built condo units submitted lists of warrantable deficiencies, I recorded and tracked this information in a clear and concise manner for all team members. Administrative department duties included scheduling meetings, publishing minutes, filing and other supportive activities.
+
 - **Administrative Assistant**
 
   Last summer, I worked for a Jewish educational organization called Torah in Motion. Primarily, I helped the organization in their transition to becoming 100% virtual due to COVID-19. Some of my responsibilities included managing the company website and YouTube page, and digitizing archived files.
@@ -19,7 +23,7 @@ I grew up with dinner table discussions about technology and mathematics, and la
 
 ## **Community Involvement**
 
-- **Co-Founder of the [Jewish Engineering Society](https://jes.skule.ca)**
+- **Co-Founder of the [Jewish Engineering Society](https://jes.skule.ca){:target="_blank"}**
 
   A classmate and I created a club to address the needs of and enhance the experience of Jewish engineering students, or any engineering students interested in Jewish culture. Our aim is to create a strong campus community where students make meaningful connections built on both a cultural and professional foundation.
 
