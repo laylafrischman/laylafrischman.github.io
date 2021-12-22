@@ -10,17 +10,17 @@ I grew up with dinner table discussions about technology and mathematics, and la
 ****
 ## **Projects**
 
- **AI and Optimization**
+ **AI and Optimization**<br>
 *Predicting and Optimizing Charitable Donations*
 
 Three classmates and I created a model using Python which predicts how charitable people are per zip code based on data from IRS tax returns. We then used those results to find the optimal route for fundraisers to travel which will maximize their expected collected donations. Our ultimate goal is for this model to be used by nonprofits to strategically plan where to fundraise. 
 
-**Web Development**
+**Web Development**<br>
 *LettuceMeat (Let-us-meet)*
 
 Currently, UofT students are only able to see the events of clubs they directly follow on social media and may miss out on events that they are unaware of. To solve this problem, a group of Industrial Engineering students and I created a web application called LettuceMeat, which contains a central schedule for all club events occurring at UofT. We used a combination of Java and SQL to build the site, and a relational database to store data and dynamically present unique information to each user.
   
-**Community Involvement**
+**Community Involvement**<br>
 *Jewish Engineering Society*
 
 A classmate and I created a club called the [Jewish Engineering Society](https://jes.skule.ca/) to address the needs of and enhance the experience of Jewish engineering students, or any engineering students interested in Jewish culture. Our aim is to create a strong campus community where students make meaningful connections built on both a cultural and professional foundation.
