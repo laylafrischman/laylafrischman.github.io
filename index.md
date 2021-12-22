@@ -7,26 +7,24 @@ title: Homepage
 
 I grew up with dinner table discussions about technology and mathematics, and later gained a passion for computer programming in my first year of university; This is the short story of what lead me to becoming an Industrial Engineering student at the University of Toronto. In my future studies, I plan to specialize in Artificial Intelligence and Machine Learning.
  
-## **Work Experience**
+****
+## **Projects**
 
-- **Customer Care Administrator**
+ **AI and Optimization**
+*Predicting and Optimizing Charitable Donations*
 
-  For the summer of 2021, I worked on site for a Construction Management company called HR Construction Management. As homeowners of the 600 newly built condo units submitted lists of warrantable deficiencies, I recorded and tracked this information in a clear and concise manner for all team members.
+Three classmates and I created a model using Python which predicts how charitable people are per zip code based on data from IRS tax returns. We then used those results to find the optimal route for fundraisers to travel which will maximize their expected collected donations. Our ultimate goal is for this model to be used by nonprofits to strategically plan where to fundraise. 
 
-- **Administrative Assistant**
+**Web Development**
+*LettuceMeat (Let-us-meet)*
 
-  Last summer, I worked for a Jewish educational organization called [Torah in Motion](https://torahinmotion.org/){:target="_blank"}. Primarily, I helped the organization in their transition to becoming 100% virtual due to COVID-19. Some of my responsibilities included managing the company website and YouTube page, and digitizing archived files.
+Currently, UofT students are only able to see the events of clubs they directly follow on social media and may miss out on events that they are unaware of. To solve this problem, a group of Industrial Engineering students and I created a web application called LettuceMeat, which contains a central schedule for all club events occurring at UofT. We used a combination of Java and SQL to build the site, and a relational database to store data and dynamically present unique information to each user.
   
-- **Podcast Researcher and Developer**
+**Community Involvement**
+*Jewish Engineering Society*
 
-  As part of the University of Toronto Work Study program, I worked within the [Engineering Communication Program](https://ecp.engineering.utoronto.ca/){:target="_blank"} to aid in the creation of a podcast series to be used as an educational tool. I had the opportunity to research the topic of engineering intuition, as well as to conduct and shadow numerous podcast interviews.
+A classmate and I created a club called the [Jewish Engineering Society](https://jes.skule.ca/) to address the needs of and enhance the experience of Jewish engineering students, or any engineering students interested in Jewish culture. Our aim is to create a strong campus community where students make meaningful connections built on both a cultural and professional foundation.
 
-## **Community Involvement**
+*Podcast Researcher and Developer*
 
-- **Co-Founder of the [Jewish Engineering Society](https://jes.skule.ca){:target="_blank"}**
-
-  A classmate and I created a club to address the needs of and enhance the experience of Jewish engineering students, or any engineering students interested in Jewish culture. Our aim is to create a strong campus community where students make meaningful connections built on both a cultural and professional foundation.
-
-- **Teaching Assistant**
-  
-  This semester, I served as a teaching assistant for an online course run by [The Tikvah Fund](https://tikvahfund.org/){:target="_blank"}, called Judaism, Science, and Technology. The curriculum spanned topics such as determining vaccine rollout priorities, where to draw the line betwen artificial intelligence and human life, and the relationship between religion and science.
+  As part of the University of Toronto Work Study program, I worked within the [Engineering Communication Program](https://ecp.engineering.utoronto.ca/) to aid in the creation of a podcast series to be used as an educational tool. I had the opportunity to research the topic of engineering intuition, as well as to conduct and shadow numerous podcast interviews.
