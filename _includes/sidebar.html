@@ -9,7 +9,17 @@
     </div>
   </header> <!-- header -->
   
-  <!-- navbar -->
+    <header>
+    <div class="about">
+      <div class="cover-author-image">
+        <a href="{{ "/" | relative_url }}"><img src="{{ "/assets/img/" | append: site.author.img | relative_url }}" alt="{{ site.author.name }}"></a>
+      </div>
+      <div class="author-name">{{ site.author.name }}</div>
+      <p>{{ site.author.about }}</p>
+    </div>
+  </header>
+  
+  <!-- navbar 
   
   <header>
   <div class="about">
@@ -19,6 +29,7 @@
     </ul> 
   </div>
   </header>
+-->
   
   <footer>
     <section class="contact">
