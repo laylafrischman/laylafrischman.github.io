@@ -10,10 +10,15 @@ I grew up with dinner table discussions about technology and mathematics, and la
 ****
 ## **Projects**
 
- **AI and Optimization**<br>
+ **Machine Learning**<br>
+*Image Upscaling*
+
+Three classmates and I created a machine learning model which takes in a low resolution image with dimensions 56x56 pixels, and outputs a high resolution version of the input with dimensions 224x224 using a Super Resolution Convolutional Neural Network (SRCNN). We used a Super Resolution General Adversarial Network (SRGAN) as a baseline model. Results showed that our primary model outperformed the baseline quantitatively, however, the quality of the images did not appear significantly better.
+
+**AI and Optimization**<br>
 *Predicting and Optimizing Charitable Donations*
 
-Three classmates and I created a model using Python which predicts how charitable people are per zip code based on data from IRS tax returns. We then used those results to find the optimal route for fundraisers to travel which will maximize their expected collected donations. Our ultimate goal is for this model to be used by nonprofits to strategically plan where to fundraise. 
+Three classmates and I created a Lasso linear regression model using Python which predicts how charitable people are per zip code based on data from IRS tax returns. We then used those results to find the optimal route for fundraisers to travel which will maximize their expected collected donations. Our ultimate goal is for this model to be used by nonprofits to strategically plan where to fundraise. 
 
 **Web Development**<br>
 *LettuceMeat (Let-us-meet)*
